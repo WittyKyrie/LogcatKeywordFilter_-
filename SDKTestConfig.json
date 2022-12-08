@@ -1,0 +1,11 @@
+{
+    "KEYWORDS" : [
+        {"word" : "ANR"},
+        {"word" : "NullPointerException"},
+        {"word" : "CRASH"},
+        {"word" : "Force Closed"},
+        {"word" : "ab"}
+    ],
+
+    "LOG_PATH" : "C:\\Users\\Administrator\\Desktop\\SDKTestTool"
+}
